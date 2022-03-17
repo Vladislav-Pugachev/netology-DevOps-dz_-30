@@ -1,1 +1,5 @@
-# netology-DevOps-dz_-30
+## 1.
+
+Создать образ позволяет EBS-backed EC2
+
+
